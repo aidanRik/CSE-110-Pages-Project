@@ -41,4 +41,4 @@ Jump to [what I'm learning next](#things-i-want-to-learn-next)
 
 Feel free to reach out — I'm always open to talking tech, swimming, or basketball.
 
-[LinkedIn →](https://www.linkedin.com/in/aidan-rikic/)
+[LinkedIn](https://www.linkedin.com/in/aidan-rikic/)
